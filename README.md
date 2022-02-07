@@ -8,6 +8,8 @@ Use a PS3 controller as joystick on an AMSTRAD CPC.
 
 * PS3 controller
 * ESP32
+* 74LS38
+* Resostor 1K
 
 
 ![Open-collector Nand Gate](https://github.com/landru29/amstrad_joystick/blob/master/esp32.jpg)

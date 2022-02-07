@@ -24,3 +24,4 @@ The chip-select of each Nand gate is the `common` line  (inverted).
 
 * 1 x ESP32
 * 2 x 74LS38
+* 1 x Resostor 1K
