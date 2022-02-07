@@ -72,7 +72,7 @@ bit | 0            | 1            | 2       | 3     | 4    | 5      | 6         
   5 | f3           | f1           | Shift   | * :   | K    | J      | F / Joy 1 Fire 1  | D   | A          | Joy 0 Fire 1 |
   4 | f6           | f5           | f4      | + ;   | L    | H      | G / Joy 1 Fire 2  | S   | Tab        | Joy 0 Fire 2 |
   3 | f9           | f8           | } ]     | P     | I    | Y      | T / Joy 1 Right   | W   | Q          | Joy 0 Right  |
-  2 | Cursor Down  | f7           | Return  | | @   | O    | U      | R / Joy 1 Left    | E   | Esc        | Joy 0 Left   |
+  2 | Cursor Down  | f7           | Return  | @     | O    | U      | R / Joy 1 Left    | E   | Esc        | Joy 0 Left   |
   1 | Cursor Right | Copy         | { [     | = -   | ) 9  | ' 7    | % 5 / Joy 1 Down  | # 3 | " 2        | Joy 0 Down   |
   0 | Cursor Up    | Cursor Left  | Clr     | Â£ ^  | _ 0  | ( 8    | & 6 / Joy 1 Up    | $ 4 | ! 1        | Joy 0 Up     |
 
