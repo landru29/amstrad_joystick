@@ -4,8 +4,8 @@
 #define RIGHT  33
 #define UP     26
 #define BOTTOM 27
-#define FIRE1  25
-#define FIRE2  14
+#define FIRE2  25
+#define FIRE1  14
 
 bool bottom;
 bool top;
