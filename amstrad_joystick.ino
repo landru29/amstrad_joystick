@@ -1,6 +1,6 @@
 #include <Ps3Controller.h>
 
-#define LEFT   32
+#define LEFT   12
 #define RIGHT  33
 #define UP     26
 #define BOTTOM 27
