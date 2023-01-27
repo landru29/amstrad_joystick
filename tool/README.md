@@ -2,6 +2,9 @@
 
 This file is from project http://www.pabr.org/sixlinux/sixlinux.en.html
 
+## Prerequisite
+
+You must have a sane installation of `libusb`
 ## Build
 
 ```bash
